@@ -27,14 +27,15 @@ Here's a walkthrough of implemented features:
 
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+![NewSeaMonstar](https://github.com/FahmidaAz/web102_prework/assets/67521128/9a641b8c-b186-4bcc-aed4-1fead622f868)
+GIF created with LiceCap  
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
-![NewSeaMonstar](https://github.com/FahmidaAz/web102_prework/assets/67521128/9a641b8c-b186-4bcc-aed4-1fead622f868)
+
 
 Describe any challenges encountered while building the app.
 
