@@ -25,6 +25,7 @@ Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 <!-- Recommended tools:
@@ -33,6 +34,7 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
+![NewSeaMonstar](https://github.com/FahmidaAz/web102_prework/assets/67521128/9a641b8c-b186-4bcc-aed4-1fead622f868)
 
 Describe any challenges encountered while building the app.
 
